@@ -1,4 +1,4 @@
-[![MasterHead](https://paulvanderlaken.com/wp-content/uploads/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900&h=249&crop=1)](https://firdoseara.io)
+[![MasterHead](https://i.pinimg.com/originals/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg)](https://firdoseara.io)
 <h1 align="center">Hi 👋, I'm Firdose Ara</h1>
 <h3 align="center">A passionate Data-scientist Student in India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"
